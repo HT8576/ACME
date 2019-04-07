@@ -1,4 +1,3 @@
-<!doctype html>
 <secction>
-<font size="10" color="Green">ACME</font>
+<b><font size="10" color="Green">ACME</font></b>
 <section/>
